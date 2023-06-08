@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 67,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Gabrielle Fonrouge",
+            "title": "Walmart sells Bonobos to WHP Global and Express in $75 million deal - CNBC",
+            "description": "Walmart has agreed to sell Bonobos to WHP Global and Express for $75 million after purchasing the DTC brand for $310 million in 2017.",
+            "url": "https://www.cnbc.com/2023/04/13/walmart-sells-bonobos-to-whp-global-and-express.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106146529-1569354066739bonobos.jpg?v=1681423839&w=1920&h=1080",
+            "publishedAt": "2023-04-13T22:10:39Z",
+            "content": "Walmart has sold menswear brand Bonobos to brand management firm WHP Global and Express in a $75 million deal announced Thursday.\r\nIt's the second time this year Walmart has offloaded a direct to con… [+3039 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Market Rally Rebounds: Dow Jones Futures - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-stages-bullish-rebound-jpmorgan-citigroup-unitedhealth-due/",
+            "urlToImage": null,
+            "publishedAt": "2023-04-13T22:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sara Salinas",
+            "title": "Boeing warns of reduced 737 Max production and deliveries due to parts issue - CNBC",
+            "description": "Boeing on Thursday warned of reduced 737 Max production and deliveries in the near term due to a parts issue originating with a supplier.",
+            "url": "https://www.cnbc.com/2023/04/13/boeing-warns-of-reduced-737-max-production-and-deliveries-due-to-parts-issue.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106799394-1605789345345-gettyimages-1229676454-ryder-boeing-42.jpeg?v=1681421638&w=1920&h=1080",
+            "publishedAt": "2023-04-13T21:31:35Z",
+            "content": "Boeing on Thursday warned it will likely have to reduce deliveries of its 737 Max airplane in the near term because of a problem with a part made by supplier Spirit AeroSystems.\r\nBoeing said its supp… [+2764 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Jocelyn Yang",
+            "title": "Ether Jumps Above $2K a Day After Ethereum Shanghai Upgrade - CoinDesk",
+            "description": "The token was up more than 5%. Institutional investors remain in wait-and-see mode, says one analyst.",
+            "url": "https://www.coindesk.com/markets/2023/04/13/ether-jumps-above-2k-a-day-after-ethereum-shanghai-upgrade/",
+            "urlToImage": "https://www.coindesk.com/resizer/NCuSRoHQUunjS9ZNfC_Db1z_Vko=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/W2J2LB7LCNGN3HCSLNP77ILRTU.png",
+            "publishedAt": "2023-04-13T20:18:00Z",
+            "content": "Ether (ETH) continued its recent strength Thursday afternoon, climbing above $2,000 a day after Ethereum successfully completed the long-anticipated upgrade.\r\nThe second-largest cryptocurrency by mar… [+3957 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Ends On High Note; Buffett Makes Big Bet Ahead Of Bank Earnings - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-rises-did-warren-buffett-sell-bank-stocks-ahead-of-big-bank-earnings/",
+            "urlToImage": null,
+            "publishedAt": "2023-04-13T20:18:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jennifer Schonberger",
+            "title": "IMF calls risks from bank crisis 'contained,' urges central banks focus on inflation - Yahoo Finance",
+            "description": "Attendees of the IMF/World Bank spring meetings in Washington are more worried about inflation than the banking system.",
+            "url": "https://finance.yahoo.com/news/imf-calls-risks-from-bank-crisis-contained-urges-central-banks-focus-on-inflation-200607857.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dRZCVkKLkN4u3Y0LQZG.Uw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/8d0458a0-da29-11ed-bfff-fce0260632dd",
+            "publishedAt": "2023-04-13T20:06:07Z",
+            "content": "The IMF says banking issues appear contained for now and that inflation is the bigger risk and top concern for central bankers and attendees of the IMF/World Bank spring meetings this week in Washing… [+3242 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Rick Newman",
+            "title": "Biden’s gift to Elon Musk and Tesla - Yahoo Finance",
+            "description": "The biggest beneficiary of tough new pollution rules will be Tesla and its CEO Elon Musk--one of President Biden's most ardent critics.",
+            "url": "https://finance.yahoo.com/news/bidens-gift-to-elon-musk-and-tesla-195528708.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MGhcC1PNp4auewq4NSnwEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/40d88e40-a254-11ed-bf5f-63aa42036f2b",
+            "publishedAt": "2023-04-13T19:55:28Z",
+            "content": "Tesla CEO Elon Musk leans Republican, and hes no friend of Joe Biden. But President Biden and his fellow Democrats have done Musk and his company a favor no Republican would likely consider.\r\nBidens … [+6202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Heather Tal Murphy",
+            "title": "Free public phone chargers: The FBI's warning is bogus. And juice jacking does not appear to be real. - Slate",
+            "description": "Here’s how the FBI, the FCC, and hundreds of news organizations got this one so wrong.",
+            "url": "https://slate.com/technology/2023/04/free-public-phone-chargers-fbi-warning-bad-actors-threat-bogus-debunked.html",
+            "urlToImage": "https://compote.slate.com/images/ff35ce54-ecb2-4aeb-8425-65df545300b0.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2023-04-13T19:40:00Z",
+            "content": "Over the past week, hundreds of articles have been written warning the public not to charge cellphones at airport or hotel USB ports. Most of the news items cite a recent tweet from the FBI, which in… [+7906 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Yahoo Life",
+            "title": "Italy’s American-themed chain restaurant is a hilarious look into how other countries see the U.S. - Yahoo Life",
+            "description": null,
+            "url": "https://www.yahoo.com/lifestyle/italy-american-themed-chain-restaurant-193446389.html",
+            "urlToImage": null,
+            "publishedAt": "2023-04-13T19:34:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Mary K. Jacob",
+            "title": "Manhattan rents reach all-time high at $4,175 per month as exodus continues - New York Post ",
+            "description": "The rent is too damn high — and now, following more than a year of rising prices, the median price for a Manhattan apartment just broke another record.",
+            "url": "https://nypost.com/2023/04/13/manhattan-median-rents-reach-an-all-time-high-of-4175-month/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26573555-1681417448845.jpg?quality=75&strip=all&1681403070&w=1024",
+            "publishedAt": "2023-04-13T19:34:00Z",
+            "content": "The median rental price in Manhattan has topped $4,150 for the first time in Big Apple history, according to a jaw-dropping March market report compiled by brokerage Douglas Elliman and appraisers Mi… [+1940 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WCVB Boston"
+            },
+            "author": "Jeff Rossen",
+            "title": "Rossen Reports: Why car prices are still so high - WCVB Boston",
+            "description": "New and used vehicle prices are still at record highs. Here are a few reasons why.",
+            "url": "https://www.wcvb.com/article/rossen-reports-why-car-prices-are-still-so-high/43592949",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/option-1-jpg-6438556609174.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2023-04-13T19:23:00Z",
+            "content": "New and used vehicle prices are stubborn, staying at record highs. But why? Were looking into those reasons.\r\nIndustry experts say the supply chain problem has gotten better, but it hasnt gone away. … [+595 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KCCI Des Moines"
+            },
+            "author": null,
+            "title": "What's the best breaded tenderloin sandwich in Iowa? Nominations open in annual contest. - KCCI Des Moines",
+            "description": "Most Iowans have strong thoughts on the best tenderloin out there. What's your favorite?",
+            "url": "https://www.kcci.com/article/iowa-best-breaded-tenderloin-contest-nominations-open-for-2023/43589067",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/d1dc205d-14d4-4833-b1ca-65f77566cef6/ef20d92e-e3c1-429b-996a-5dd39ff79ec6.jpg?crop=0.794xw:0.794xh;0.206xw,0&resize=1200:*",
+            "publishedAt": "2023-04-13T19:21:00Z",
+            "content": "DES MOINES, Iowa —The contest to determine this year's best breaded tenderloin sandwich is now open. \r\nThe Iowa Pork Producers Association is asking the public to nominate their favorite tenderloin f… [+1230 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "William Watts",
+            "title": "The 'fuel is there to blow the top off' the stock market. Here's what's missing. - MarketWatch",
+            "description": "The ingredients are in place for the launch of a new bull market, says a top Wall Street technician. But there's no guarantee.",
+            "url": "https://www.marketwatch.com/story/the-fuel-is-there-to-blow-the-top-off-the-stock-market-heres-whats-missing-925e6cf3",
+            "urlToImage": "https://images.mktw.net/im-675827/social",
+            "publishedAt": "2023-04-13T19:21:00Z",
+            "content": "The ingredients are in place for an explosive U.S. stock-market rally, but recent price action leaves room for doubt about whether the bears have been vanquished, a closely followed Wall Street techn… [+2461 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Parija Kavilanz",
+            "title": "Tupperware: How a plastic bowl with a 'burp seal' gave women a means to an income - CNN",
+            "description": "Tupperware, an iconic brand that's woven into the fabric of post World War II America, signaled this week that it could be on its last gasp.",
+            "url": "https://www.cnn.com/2023/04/13/business/tupperware-history/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230412114529-file-tupperware-party-1950s.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-13T19:18:00Z",
+            "content": "Tupperware, an iconic brand thats woven into the fabric of post World War II America, signaled this week that it could be on its last gasp. \r\nKnown the world over for its plastic food storage contain… [+8003 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Ariel Zilber",
+            "title": "Joe Rogan slammed by fans for defending Bud Light over Dylan Mulvaney sponsorship - New York Post ",
+            "description": "“Wonder how much Bud paid him for that,” one Twitter user commented.",
+            "url": "https://nypost.com/2023/04/13/joe-rogan-slammed-by-fans-for-defending-bud-light-over-dylan-mulvaney-sponsorship/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26571090-1681408408799.jpg?quality=75&strip=all&1681395539&w=1024",
+            "publishedAt": "2023-04-13T19:12:00Z",
+            "content": "Joe Rogan’s rabid fan base soured on the Spotify star after he took a sip of Bud Light during his podcast and said the controversy surrounding Dylan Mulvaney’s partnership was much ado about nothing.… [+3193 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Swapna Venugopal Ramaswamy",
+            "title": "US banks lost money on mortgages for the first time on record - USA TODAY",
+            "description": "Loan volumes in 2022 were 50% down compared to 2021. Meanwhile producing a loan got more expensive.",
+            "url": "https://www.usatoday.com/story/money/personalfinance/real-estate/2023/04/13/banks-making-loss-on-mortgages/11655704002/",
+            "urlToImage": "https://www.gannett-cdn.com/-mm-/a3637f5673fa79cdf91869a25cd336ca46d8fb74/c=0-41-793-487/local/-/media/2022/09/23/USATODAY/usatsports/GettyImages-1314879006_yO2jbAb.width-793.jpg?width=793&height=446&fit=crop&format=pjpg&auto=webp",
+            "publishedAt": "2023-04-13T18:54:50Z",
+            "content": "U.S. banks lost money on mortgages as prospective homebuyers  tired of battling high mortgage rates and still rising home prices  backed out of the housing market.\r\nIndependent mortgage banks and mor… [+2657 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Houston Keene",
+            "title": "President Biden turns heads with Instagram post bragging about inflation falling from its 'peak' - Fox News",
+            "description": "President Biden turned heads on Wednesday after he made an Instagram post bragging about inflation falling from its summer \"peak\" by 45 percent under his administration.",
+            "url": "https://www.foxnews.com/politics/president-biden-turns-heads-instagram-post-bragging-about-inflation-falling-from-its-peak",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/joe-biden-2.jpg",
+            "publishedAt": "2023-04-13T18:37:00Z",
+            "content": "President \r\nBiden\r\n turned heads on Wednesday with an Instagram post bragging about inflation falling 45 percent from its summer \"peak\" under his leadership.\r\nThe president posted a graphic to his of… [+1749 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Whec.com"
+            },
+            "author": "Bonnie Marrocco",
+            "title": "Seven Story Brewing in Bushnell's Basin closing in June - News10NBC",
+            "description": "On Wednesday, Seven Story Brewing in Bushnell’s Basin announced that it will be closing this summer.",
+            "url": "https://www.whec.com/top-news/seven-story-brewing-in-bushnells-basin-closing-in-june/",
+            "urlToImage": "https://www.whec.com/wp-content/uploads/akta/FD71110A9A862F21FD4067DC67C70CBF.jpg",
+            "publishedAt": "2023-04-13T18:30:51Z",
+            "content": "BUSHNELL’S BASIN, N.Y. – On Wednesday, Seven Story Brewing in Bushnells Basin announced that it will be closing this summer.\r\nThe craft brewery announced that its closing its doors at the end of June… [+275 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Marcel Pechman",
+            "title": "Bitcoin derivatives data shows bulls positioning for further BTC price upside - Cointelegraph",
+            "description": "Bulls have taken charge of the crypto market, and multiple data points suggest BTC price could go higher.",
+            "url": "https://cointelegraph.com/news/bitcoin-derivatives-data-shows-bulls-positioning-for-further-btc-price-upside",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-04/59bbda47-dc07-4bef-bafc-e8c214107bbf.jpg",
+            "publishedAt": "2023-04-13T17:52:04Z",
+            "content": "Bitcoin (BTC) price maintained the $30,000 support as lower-than-expected U.S. Consumer Price Index (CPI) data was released on April 12. The official inflation rate for March increased 5% year on yea… [+4675 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Amazon offers free access to its AI coding assistant to undercut Microsoft - The Verge",
+            "description": "Amazon’s CodeWhisperer tool, which suggests and generates code, is now generally available. It’s also free for individual developers to use, undercutting the $10 per month pricing of GitHub’s AI Copilot.",
+            "url": "https://www.theverge.com/2023/4/13/23681796/amazon-ai-coding-assistant-codewhisperer-microsoft",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Ee_G4u5fxlmLJhGptIdd2WSR6zM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/13292775/acastro_181017_1777_brain_ai_0003.jpg",
+            "publishedAt": "2023-04-13T17:51:08Z",
+            "content": "Amazon offers free access to its AI coding assistant to undercut Microsoft\r\nAmazon offers free access to its AI coding assistant to undercut Microsoft\r\n / Amazons CodeWhisperer generates and suggests… [+2198 chars]"
+        }
+    ]
+}
